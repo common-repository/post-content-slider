@@ -1,0 +1,14 @@
+.pcs_widget_showdata li {
+	display: none;
+	position: absolute;
+	width: 100%;
+}
+
+.pcs_widget_showdata li img.wp-post-image {
+	max-width: 100% !important;
+}
+
+.pcs_widget_showdata .pcs-post-title {
+	line-height: 25px !important;
+	font-weight: bold;
+}
